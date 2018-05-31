@@ -1,5 +1,4 @@
 server:
-  port: 8763
   servlet-path: /system
 
 management.security.enabled: false
